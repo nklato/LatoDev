@@ -17,12 +17,12 @@ const socials = [
 		label: "Email",
 		handle: "dev1@lato.dev",
 	},
-	// {
-	// 	icon: <Github size={20} />,
-	// 	href: "https://github.com/nklato",
-	// 	label: "Github",
-	// 	handle: "nklato",
-	// },
+	{
+		icon: <Github size={20} />,
+		href: "https://github.com/nklato",
+		label: "Github",
+		handle: "nklato",
+	},
 ];
 
 export default function Example() {
