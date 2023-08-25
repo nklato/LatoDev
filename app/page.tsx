@@ -37,8 +37,7 @@ export default function Home() {
 				<h2 className="text-sm text-zinc-500 ">
 					Hi, my name is Konrad,
 					<br /> 
-					I'm building Frontend and Backend Web
-					Applications at UpWork
+					I'm building React.JS Applications on UpWork
 					{/* Applications at{" "}
 					<Link
 						target="_blank"
