@@ -35,9 +35,9 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Hi, my name is Konrad,
+					Hi, my name is Norbert Konrad Lato,
 					<br /> 
-					I'm building React.JS Applications on UpWork
+					I'm designing and developing dynamic websites and web applications.
 					{/* Applications at{" "}
 					<Link
 						target="_blank"
@@ -48,7 +48,7 @@ export default function Home() {
 					</Link> */}
 
 					<br />
-					and working on Lato.dev at night.
+					Explore my portfolio to see how I blend creativity and functionality.
 					{/* and working on{" "}
 					<Link
 						target="_blank"
