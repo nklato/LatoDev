@@ -15,7 +15,7 @@ const socials = [
 		icon: <Mail size={20} />,
 		href: "mailto:conrad.lato@gmail.com",
 		label: "Email",
-		handle: "conrad.lato@gmail.com",
+		handle: "conrad.lato @gmail.com",
 	},
 	{
 		icon: <Mail size={20} />,
