@@ -18,7 +18,7 @@ const socials = [
 		handle: "dev@lato.dev",
 	},
 	{
-		icon: <Instagram size={20} />,
+		icon: <Mail size={20} />,
 		href: "https://instagram.com/konrd_nor",
 		label: "Instagram",
 		handle: "@konrd_nor",
